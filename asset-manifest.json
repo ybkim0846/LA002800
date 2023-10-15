@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LA002800/static/css/main.073c9b0a.css",
-    "main.js": "/LA002800/static/js/main.2857ef38.js",
+    "main.js": "/LA002800/static/js/main.ec336f56.js",
     "static/js/787.853e860d.chunk.js": "/LA002800/static/js/787.853e860d.chunk.js",
     "static/media/Group 31.jpg": "/LA002800/static/media/Group 31.7bf5fc088fc061b2e3f5.jpg",
     "static/media/Group 32.jpg": "/LA002800/static/media/Group 32.e9ec078bf95d160779d0.jpg",
@@ -32,11 +32,11 @@
     "static/media/열람 안내창.jpg": "/LA002800/static/media/열람 안내창.4a2d3ae2f50be1affa2d.jpg",
     "index.html": "/LA002800/index.html",
     "main.073c9b0a.css.map": "/LA002800/static/css/main.073c9b0a.css.map",
-    "main.2857ef38.js.map": "/LA002800/static/js/main.2857ef38.js.map",
+    "main.ec336f56.js.map": "/LA002800/static/js/main.ec336f56.js.map",
     "787.853e860d.chunk.js.map": "/LA002800/static/js/787.853e860d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2857ef38.js"
+    "static/js/main.ec336f56.js"
   ]
 }
