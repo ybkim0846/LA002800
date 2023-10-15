@@ -6,12 +6,15 @@ import pic5 from '../img/전자도서관 검색결과.jpg'
 import pic6 from '../img/도서 상세페이지.jpg'
 import pic7 from '../img/대출 안내창.jpg'
 import pic8 from '../img/내서재 이동 안내창.jpg'
+import pic9 from '../img/내서재.jpg'
 
-const data = [ pic1, pic2, pic3, pic4, pic5, pic6, pic7, pic8 ];
+
+
+const data = [ pic1, pic2, pic3, pic4, pic5, pic6, pic7, pic8, pic9 ];
 
 const ImgData = (num) => {
     const cur = num.num;
-    console.log(cur);
+    // console.log(cur);
 
     return (
         <div>
