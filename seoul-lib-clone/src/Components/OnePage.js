@@ -1,4 +1,5 @@
 // import styled from "styled-components";
+import { useState } from "react";
 import ImgData from "./data";
 
 // const ImgCont = styled.div`
@@ -8,13 +9,17 @@ import ImgData from "./data";
 
 
 function PageCont () {
+    const [ page, setPage ] = useState(0);
+
+    const onClickHandler = () => {
+        setPage(page+1);
+    }
 
     return (
         <div>
-            <ImgData num={0} />
-            {/* <ImgCont>
-                <ImgData num={0} />
-            </ImgCont> */}
+            <div onClick={onClickHandler}>
+            <ImgData num={page} />
+            </div>
         </div>
     )
 }
