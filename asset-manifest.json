@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LA002800/static/css/main.073c9b0a.css",
-    "main.js": "/LA002800/static/js/main.95cb2e19.js",
+    "main.js": "/LA002800/static/js/main.2857ef38.js",
     "static/js/787.853e860d.chunk.js": "/LA002800/static/js/787.853e860d.chunk.js",
     "static/media/Group 31.jpg": "/LA002800/static/media/Group 31.7bf5fc088fc061b2e3f5.jpg",
     "static/media/Group 32.jpg": "/LA002800/static/media/Group 32.e9ec078bf95d160779d0.jpg",
@@ -17,19 +17,26 @@
     "static/media/하단 스크롤을 통해 2페이지로 이동.jpg": "/LA002800/static/media/하단 스크롤을 통해 2페이지로 이동.9803726a87a25644be79.jpg",
     "static/media/왼쪽 상단 엑스표 눌러 종료.jpg": "/LA002800/static/media/왼쪽 상단 엑스표 눌러 종료.31eda2dafa539eb5f533.jpg",
     "static/media/전자도서관 상세페이지 1.jpg": "/LA002800/static/media/전자도서관 상세페이지 1.d84a561dcc4add381896.jpg",
+    "static/media/북리뷰 수정 및 삭제 페이지.jpg": "/LA002800/static/media/북리뷰 수정 및 삭제 페이지.cd1a3c59a39d5b6d37a7.jpg",
     "static/media/도서 상세페이지.jpg": "/LA002800/static/media/도서 상세페이지.f9ebd408519cddd3b6c3.jpg",
     "static/media/대출 안내창.jpg": "/LA002800/static/media/대출 안내창.1e4d7f8d51a2d0e90517.jpg",
     "static/media/내서재 이동 안내창.jpg": "/LA002800/static/media/내서재 이동 안내창.8d5913feb36302097460.jpg",
+    "static/media/북리뷰 삭제 1.jpg": "/LA002800/static/media/북리뷰 삭제 1.1dd0276f0a28b781cf16.jpg",
+    "static/media/북리뷰 삭제 완료 안내창 1.jpg": "/LA002800/static/media/북리뷰 삭제 완료 안내창 1.bce4dbdd156764c28531.jpg",
+    "static/media/북리뷰 작성.jpg": "/LA002800/static/media/북리뷰 작성.bb75460f6be39dc6d6c7.jpg",
+    "static/media/리뷰 등록 안내창.jpg": "/LA002800/static/media/리뷰 등록 안내창.35c2e35f5058998b05f4.jpg",
     "static/media/1페이지.jpg": "/LA002800/static/media/1페이지.13cb4d1a4174207b035b.jpg",
     "static/media/내서재.jpg": "/LA002800/static/media/내서재.ecd95b3e4e4dcfb0182b.jpg",
+    "static/media/반납 안내창.jpg": "/LA002800/static/media/반납 안내창.a37f026b696a23f5e40f.jpg",
+    "static/media/반납 완료 안내창.jpg": "/LA002800/static/media/반납 완료 안내창.5fda209b99d9a563dae0.jpg",
     "static/media/열람 안내창.jpg": "/LA002800/static/media/열람 안내창.4a2d3ae2f50be1affa2d.jpg",
     "index.html": "/LA002800/index.html",
     "main.073c9b0a.css.map": "/LA002800/static/css/main.073c9b0a.css.map",
-    "main.95cb2e19.js.map": "/LA002800/static/js/main.95cb2e19.js.map",
+    "main.2857ef38.js.map": "/LA002800/static/js/main.2857ef38.js.map",
     "787.853e860d.chunk.js.map": "/LA002800/static/js/787.853e860d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.95cb2e19.js"
+    "static/js/main.2857ef38.js"
   ]
 }
