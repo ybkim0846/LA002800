@@ -1,24 +1,35 @@
 {
   "files": {
     "main.css": "/LA002800/static/css/main.073c9b0a.css",
-    "main.js": "/LA002800/static/js/main.48877c7f.js",
+    "main.js": "/LA002800/static/js/main.95cb2e19.js",
     "static/js/787.853e860d.chunk.js": "/LA002800/static/js/787.853e860d.chunk.js",
+    "static/media/Group 31.jpg": "/LA002800/static/media/Group 31.7bf5fc088fc061b2e3f5.jpg",
+    "static/media/Group 32.jpg": "/LA002800/static/media/Group 32.e9ec078bf95d160779d0.jpg",
+    "static/media/Group 34.jpg": "/LA002800/static/media/Group 34.e9ec078bf95d160779d0.jpg",
+    "static/media/Group 33.jpg": "/LA002800/static/media/Group 33.551c4ef11bab4d756a4d.jpg",
     "static/media/메인 1.jpg": "/LA002800/static/media/메인 1.7d34d442e8aac6a10965.jpg",
     "static/media/전자도서관 메인 1.jpg": "/LA002800/static/media/전자도서관 메인 1.29b3956bfcd691a83b93.jpg",
     "static/media/GNB바.jpg": "/LA002800/static/media/GNB바.11dfec952b5393793794.jpg",
     "static/media/전자도서관 검색결과.jpg": "/LA002800/static/media/전자도서관 검색결과.a53aa597d3cb78cc2063.jpg",
+    "static/media/목차에서 1클릭.jpg": "/LA002800/static/media/목차에서 1클릭.f514dc207a8a3d26f0b2.jpg",
+    "static/media/24페이지 우측바 노출.jpg": "/LA002800/static/media/24페이지 우측바 노출.61817367b6d2d07a38d1.jpg",
+    "static/media/책갈피 기능 클릭.jpg": "/LA002800/static/media/책갈피 기능 클릭.94c690d198a1c611e327.jpg",
+    "static/media/하단 스크롤을 통해 2페이지로 이동.jpg": "/LA002800/static/media/하단 스크롤을 통해 2페이지로 이동.9803726a87a25644be79.jpg",
+    "static/media/왼쪽 상단 엑스표 눌러 종료.jpg": "/LA002800/static/media/왼쪽 상단 엑스표 눌러 종료.31eda2dafa539eb5f533.jpg",
     "static/media/전자도서관 상세페이지 1.jpg": "/LA002800/static/media/전자도서관 상세페이지 1.d84a561dcc4add381896.jpg",
     "static/media/도서 상세페이지.jpg": "/LA002800/static/media/도서 상세페이지.f9ebd408519cddd3b6c3.jpg",
     "static/media/대출 안내창.jpg": "/LA002800/static/media/대출 안내창.1e4d7f8d51a2d0e90517.jpg",
     "static/media/내서재 이동 안내창.jpg": "/LA002800/static/media/내서재 이동 안내창.8d5913feb36302097460.jpg",
+    "static/media/1페이지.jpg": "/LA002800/static/media/1페이지.13cb4d1a4174207b035b.jpg",
     "static/media/내서재.jpg": "/LA002800/static/media/내서재.ecd95b3e4e4dcfb0182b.jpg",
+    "static/media/열람 안내창.jpg": "/LA002800/static/media/열람 안내창.4a2d3ae2f50be1affa2d.jpg",
     "index.html": "/LA002800/index.html",
     "main.073c9b0a.css.map": "/LA002800/static/css/main.073c9b0a.css.map",
-    "main.48877c7f.js.map": "/LA002800/static/js/main.48877c7f.js.map",
+    "main.95cb2e19.js.map": "/LA002800/static/js/main.95cb2e19.js.map",
     "787.853e860d.chunk.js.map": "/LA002800/static/js/787.853e860d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.48877c7f.js"
+    "static/js/main.95cb2e19.js"
   ]
 }
