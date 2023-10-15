@@ -11,10 +11,13 @@ const data = [ pic1, pic2, pic3, pic4, pic5, pic6, pic7, pic8 ];
 
 const ImgData = (num) => {
     const cur = num.num;
+    console.log(cur);
 
     return (
         <div>
-            <img src={data[cur]} alt='' width="100%" />
+            { (cur >= data.length) ? 
+            <div> end </div> : <img src={data[cur]} alt='' width="100%" /> }
+            
         </div>
     )
 }
